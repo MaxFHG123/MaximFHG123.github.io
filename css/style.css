@@ -3,7 +3,7 @@ body{background-color:#fadca5}
 h1{margin-left:340px}
 .button1 {
     background-color: #4CAF50;
-    width:80px;
+    width:120px;
     color: white;
     padding: 20px;
     text-align: center;
@@ -13,7 +13,7 @@ h1{margin-left:340px}
 }
 .button2 {
     background-color: grey;
-    width:80px;
+    width:120px;
     color: white;
     padding: 20px;
     text-align: center;
