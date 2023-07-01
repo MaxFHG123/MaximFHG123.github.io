@@ -1,0 +1,24 @@
+body{background-color:#fadca5}
+.from{margin-left:650px}
+h1{margin-left:340px}
+.button1 {
+    background-color: #4CAF50;
+    width:80px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left:600px;
+}
+.button2 {
+    background-color: grey;
+    width:80px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:50px;}
+.button1 {border-radius: 40px;}
+.button2 {border-radius: 40px;}
