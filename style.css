@@ -1,0 +1,16 @@
+.button{
+    background-color: #bbecbc;
+    border: 2px solid rgb(185, 228, 183);
+    border-radius: 15%;
+}
+h1{
+    color: rgb(0, 153, 255);
+    text-align: center;
+    font-size: 45px;
+}
+body{
+    background-color: rgb(25, 255, 148, 0.785);
+}
+div{
+    margin: 0 auto;
+}
