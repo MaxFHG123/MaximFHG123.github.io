@@ -11,6 +11,6 @@ h1{
 body{
     background-color: rgb(25, 255, 148, 0.785);
 }
-div{
-    margin: 0 auto;
+.div{
+    margin: auto;
 }

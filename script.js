@@ -13,7 +13,7 @@ function(){
 )
 $("#minus").click(
 function(){
-answer.text(first.val()*second.val()) 
+answer.text(first.val()-second.val()) 
 }
 )
 $("#devide").click(
